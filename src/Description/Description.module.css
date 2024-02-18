@@ -1,0 +1,10 @@
+.title {
+  color: cornflowerblue;
+}
+
+.description {
+  color: #888;
+  font-style: italic;
+  font-size: 1em;
+  margin-top: 10px;
+}
